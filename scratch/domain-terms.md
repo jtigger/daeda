@@ -59,20 +59,55 @@ Primary source: https://en.wikipedia.org/wiki/Magic_in_Harry_Potter#Dark_Arts
 # Defence Vectors
 
 - Search using DuckDuckGo
-- http://www.vpn4all.com/
 - https://chrome.google.com/webstore/detail/dont-track-me-google/gdbofhhdmcladcmmfjolgndfkpobecpg?utm_source=chrome-app-launcher-info-dialog
   - "Don't track me Google" Chrome extension.
 - Download your Facebook data.
 - Access the net through VMs
   - https://www.whonix.org/
+- Darkcoin
+  - https://www.dash.org/forum/topic/merchant-directory.46/
+
+## IoT
+
+## Password Manager
+
+- 1Password: great pw manager, I'm a huge fan (src: pj)
+
+
+## VPN
+
 - VPN Vendors:
+  - Cloak (src: rmoran)
   - Hotspot Shield
   - TorGuard
   - CyberGhost
   - HideMyAss
-- Darkcoin
-  - https://www.dash.org/forum/topic/merchant-directory.46/
+- http://www.vpn4all.com/
 
+## Firewall
+
+- pfSense: https://www.pfsense.org/ Open source firewall software. Pretty
+  advanced stuff (i.e. you need to be ready to do some network admin things),
+  but you can download packages to expand upon it and do neat things (i.e. sniff
+  for network traffic and block things that are malicious, region blocking, etc)
+  and right out of the box it'll run openVPN and handle things like MAC address
+  whitelisting. (src: pj)
+
+- Tomato: http://www.polarcloud.com/tomato Open source router firmware. Less
+  advanced than pfSense, but still requires some advanced know-how as you'll
+  need to flash the firmware on your wireless router. Once you do that, it has
+  some neat options for setting schedules on WiFi (i.e. making your kids go
+  outside and play) and some other fun things. (src: pj)
+
+## General Advice
+
+- make sure to lock your screen when walking away from your computer (src: pj)
+- set up two factor authentication where possible (perhaps we should dig up
+  links for the more popular social networks/email platforms 2FA set up
+  processes and merely point them out) (src: pj)
+- change the password for your wireless router (src: pj)
+- don't share your passwords with others (src: pj)
+- use a strong passcode on your mobile devices (src: pj)
 
 
 ----

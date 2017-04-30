@@ -26,6 +26,24 @@ Primary source: https://en.wikipedia.org/wiki/Magic_in_Harry_Potter#Dark_Arts
 6. Severus Snape
 7. Amycus Carrow
 
+## Years/Levels by Persona
+
+1. Public
+  - Password Manager
+  - VPN Service
+  - PGP Email
+  - Secure Email (e.g. ProtonMail)
+  - Anonymous search (e.g. Duck Duck)
+  - JonDonym
+  - Anonymous browsing (e.g. Tor Browser)
+  - + DIY VPN
+1.
+1.
+1.
+1.
+1.
+1.
+
 ----
 
 # Electronic Dark Arts
@@ -74,16 +92,6 @@ Primary source: https://en.wikipedia.org/wiki/Magic_in_Harry_Potter#Dark_Arts
 - 1Password: great pw manager, I'm a huge fan (src: pj)
 
 
-## VPN
-
-- VPN Vendors:
-  - Cloak (src: rmoran)
-  - Hotspot Shield
-  - TorGuard
-  - CyberGhost
-  - HideMyAss
-- http://www.vpn4all.com/
-
 ## Firewall
 
 - pfSense: https://www.pfsense.org/ Open source firewall software. Pretty
@@ -111,8 +119,16 @@ Primary source: https://en.wikipedia.org/wiki/Magic_in_Harry_Potter#Dark_Arts
 
 
 ----
+
+
 # References
 
+- [An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps](https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf)
+- DNS/IPv6 Leak
+  - ref: https://en.wikipedia.org/wiki/DNS_leak
+  - reports:
+    - http://www.eecs.qmul.ac.uk/~hamed/papers/PETS2015VPN.pdf
+      - Responses to this paper: https://torrentfreak.com/vpn-providers-respond-to-allegations-of-data-leakage-150701/
 - https://www.privacyrights.org/consumer-guides/online-privacy-using-internet-safely
 - https://en.wikipedia.org/wiki/Local_shared_object
   - "Local Shared Objects" aka "Flash Cookies" or "supercookies"
